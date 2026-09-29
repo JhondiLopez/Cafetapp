@@ -169,7 +169,3 @@ El proyecto funciona como una aplicación académica y continúa siendo una base
 * Pruebas automatizadas.
 * Optimización de consultas.
 * Mantenibilidad del código.
-
-Interesado en desarrollo de software, especialmente en **Java y desarrollo backend**.
-
-[GitHub](https://github.com/JhondiLopez)
